@@ -4,3 +4,5 @@
 
 layout: home
 ---
+This blog is basically just notes for my future reference
+I'm not sure if I could call this a blog...
